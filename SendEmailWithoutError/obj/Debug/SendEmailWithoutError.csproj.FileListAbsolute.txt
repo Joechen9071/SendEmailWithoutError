@@ -1,0 +1,13 @@
+C:\Users\Joe\source\repos\SendEmailWithoutError\SendEmailWithoutError\bin\Debug\SendEmailWithoutError.exe.config
+C:\Users\Joe\source\repos\SendEmailWithoutError\SendEmailWithoutError\bin\Debug\SendEmailWithoutError.exe
+C:\Users\Joe\source\repos\SendEmailWithoutError\SendEmailWithoutError\bin\Debug\SendEmailWithoutError.pdb
+C:\Users\Joe\source\repos\SendEmailWithoutError\SendEmailWithoutError\obj\Debug\SendEmailWithoutError.csprojResolveAssemblyReference.cache
+C:\Users\Joe\source\repos\SendEmailWithoutError\SendEmailWithoutError\obj\Debug\SendEmailWithoutError.Form1.resources
+C:\Users\Joe\source\repos\SendEmailWithoutError\SendEmailWithoutError\obj\Debug\SendEmailWithoutError.Properties.Resources.resources
+C:\Users\Joe\source\repos\SendEmailWithoutError\SendEmailWithoutError\obj\Debug\SendEmailWithoutError.csproj.GenerateResource.Cache
+C:\Users\Joe\source\repos\SendEmailWithoutError\SendEmailWithoutError\obj\Debug\SendEmailWithoutError.csproj.CoreCompileInputs.cache
+C:\Users\Joe\source\repos\SendEmailWithoutError\SendEmailWithoutError\obj\Debug\SendEmailWithoutError.exe
+C:\Users\Joe\source\repos\SendEmailWithoutError\SendEmailWithoutError\obj\Debug\SendEmailWithoutError.pdb
+C:\Users\Joe\source\repos\SendEmailWithoutError\SendEmailWithoutError\bin\Debug\MetroFramework.Design.dll
+C:\Users\Joe\source\repos\SendEmailWithoutError\SendEmailWithoutError\bin\Debug\MetroFramework.dll
+C:\Users\Joe\source\repos\SendEmailWithoutError\SendEmailWithoutError\bin\Debug\MetroFramework.Fonts.dll
